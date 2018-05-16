@@ -1,0 +1,225 @@
+<Scene 1>
+
+Bobby is asking Donna a couple questions
+______________________________________________
+
+%1;1:Hi Donna, I'm going to ask you a couple
+%1;1:of questions.
+
+%1;2:Why? You know I didn't have anything to 
+%1;2:do with it.
+
+%1;3:Well I will determine that from how you
+%1;3:answer these questions.
+
+%1;4:Okay what do you want to ask?
+
+%1;5:1.Where were you earlier tonight?
+%1;5:2.Did you know Roderick Atkins?
+%1;5:3.How's business?
+
+________________________________________________________________1
+
+%2;1:I was at home sleeping
+
+%2;2:1.You didn't hear the gunshot?
+%2;2:2.Did you know Roderick Atkins?
+%2;2:3.How's business?
+
+_____________________________________________________________1.1
+
+%21;1:No I'm a heavy sleeper. I find it almost
+%21;1:impossible to not sleep here in the 
+%21;1:quiet south.
+
+%21;2:1.Did you know Roderick Atkins?
+%21;2:2.How is business?
+%21;2:3.No further questions.
+
+__________________________________________________________1.1.1
+
+%211;1:I wouldn't say I knew him, but I went 
+%211;1:to a couple of his parties.
+
+%211;2:1.How was his parties?
+%211;2:2.Did you speak with him? How was he as a person?
+%211;2:3No further questions.
+
+________________________________________________________1.1.2
+
+%212;1:It's fine. The people of this town really
+%212;1:enjoy having a grocery store that they 
+%212;1:don't have to drive to.
+
+%212;2:1.Great, well I'm done so you can go back to bed.
+%212;2:2.Are you sure you didn't hear anything?
+%212;2:3.Did you know Atkins?
+
+_______________________________________________________1.1.2.2
+
+%2122;1:I didn't hear anything alright. I'm leaving
+%2122;1:now okay.
+
+______________________________________________________1.1.2.3
+
+%2123;1:No I went to a couple of his parties. I need to
+%2123;1:go to bed now, getting up early in the morning.
+
+_______________________________________________________1.1.1.1
+
+%2111;1:They were typical rock star parties. Wild and loud.
+%2111;1:It brought a crowd that some people in this meeting
+%2111;1:do not appreciate. 
+
+%2111;2:1.Which people?
+%2111;2:2.No further questions.
+%2111;2:3.Did you speak with Roderick? How was he as a person?
+
+
+_____________________________________________________1.1.1.1.1
+
+%21111;1:Well some of the more conservative people of this council
+%21111;1:do not want this town to become the modern city it 
+%21111;1:might become.
+
+%21111;2:1.No further questions.
+%21111;2:2.Did you speak with Roderick? How was he as a person?
+%21111;2:3.Anyone specific?
+
+_____________________________________________________1.1.1.1.1.2
+
+%211112;1:He was a very eccentric person. He loved music
+%211112;1:and the people that played it.
+
+%211112;2:1.What do you mean?
+%211112;2:2.Did he ever fight with anyone at the parties you went to?
+%211112;2:3.No further questions.
+
+_____________________________________________________1.1.1.1.1.2.1
+
+%2111121;1:Well at every party he would call some of his 
+%2111121;1:musician friends to come over and play some music.
+
+%2111121;2:1.Did he fight with any of them?
+%2111121;2:2.No further questions. 
+%2111121;2:3.Any big bands?
+
+____________________________________________________1.1.1.1.1.2.1.1
+
+%21111211;1:No I don't think so...I'm sorry Bobby I'm tired.
+%21111211;1:I need to get home and go to sleep.
+
+____________________________________________________1.1.1.1.1.2.1.3
+
+%21111213;1:I'm sorry, but I don't see how this connects
+%21111213;1:with the investigation. I'm going home.
+
+___________________________________________________________1.1.1.1.1.3
+
+%211113;1:If I told you I would be the police and not you.
+
+%211113;2:1.That's not really how it works.
+%211113;2:2.Did you speak with Roderick? How was he as a person?
+%211113;2:3.No further questions.
+
+___________________________________________________________1.1.1.1.1.3.1
+
+%2111131;1:Okay well I'm going home.
+
+___________________________________________________________1.1.1.1.1.3.2
+
+%2111132;1:He was a very eccentric person. He loved music 
+%2111132;1:and the people that played it. I need to go home.
+%2111132;1:Sorry Bobby. 
+
+_____________________________________________________1.1.1.1.3
+%21113;1:He was a very eccentric person. He loved music
+%21113;1:and the people that played it. 
+
+%21113;2:1.Did he have any enemies that you know of?
+%21113;2:2.No further questions.
+%21113;2:3.Anyone that he loved in particular?
+
+____________________________________________________1.1.1.1.3.1
+
+%211131;1:No. As I said I didn't really know him that well.
+%211131;1:Any other questions? Otherwise I'm leaving.
+
+%211131;2:1.Are you sure he didn't have any enemies?
+%211131;2:2.Once again where were you earlier tonight?
+%211131;2:3.No further questions. 
+
+____________________________________________________1.1.1.1.3.1.1
+
+%2111311;1:I don't know! I'm leaving now Bobby.
+
+____________________________________________________1.1.1.1.3.1.2
+
+%2111312;1:Sleeping! And that is just what I'm going to do now.
+
+____________________________________________________1.1.1.1.3.3
+
+%211133;1:I don't know. As I said I didn't know him very
+%211133;1:well. I'm leaving now bye.
+______________________________________________________1.1.1.2
+
+%2112;1:He was a very eccentric person. He loved music
+%2112;1:and the people that played it.
+
+%2112;2:1.No further questions.
+%2112;2:2.Did he fight with anyone at the parties?
+%2112;2:3.You never met him outside of the parties?
+
+_____________________________________________________1.1.1.2.2
+
+%21122;1:No I don't think so...I'm sorry Bobby I'm tired.
+%21122;1:I need to get home and go to sleep.
+
+_____________________________________________________1.1.1.2.3
+
+%21123;1:No, I've never really had anything to talk to
+%21123;1:him about. I need to leave now Bobby. 
+
+________________________________________________________________________1.2
+
+%22;1:Not really. I didn't speak to him more than twice.
+
+%22;2:1.No further questions.
+%22;2:2.How is business?
+%22;2:3.How was he as a person?
+
+______________________________________________________________________1.2.2
+
+%222;1:Fine, but if you're going to ask me about
+%222;1:business I', leaving
+
+____________________________________________________________________1.2.3
+
+%223;1:As I said, I only spoke to him twice.
+%223;1:I'm leaving.
+
+_________________________________________________________________________2
+
+%3;1:Not that well. Listen I'm really tired so
+%3;1:you get one more question.
+
+%3;2:1.Where were you earlier tonight?
+%3;2:2.Did you know if Atkins had any enemies?
+%3;2:3.Sorry for keeping you up.
+
+______________________________________________________________________2.1
+
+%31;1:Sleeping. Bye
+
+______________________________________________________________________2.2
+
+%32;1:Some of the old timers in town didn't
+%32;1:like the people he brought in. 
+
+__________________________________________________________________________3
+
+%4;1:Fine, but if you are going to ask about unrelated
+%4;1:things, I'm leaving. 
+
+
+<END OF SCENE 1>

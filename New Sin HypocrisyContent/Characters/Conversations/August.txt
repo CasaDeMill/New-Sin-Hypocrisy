@@ -1,0 +1,233 @@
+<Scene 1>
+Bobby asks august a couple of questions
+
+%1;1:Hi what brings you here this late officer?
+
+%1;2:I want to ask you a couple of questions.
+
+%1;3:About what?
+
+%1;4:1.Roderick Atkins is dead.
+_____________________________________________________1
+
+%2;1:Oh my god! What happened?
+
+%2;2:1.He was shot.
+%2;2:2.We don't know yet.
+
+
+____________________________________________________1.1
+
+%21;1:By Who?!
+
+%21;2:1.We don't know yet.
+%21;2:2.I can't say for sure.
+
+_________________________________________________1.1.1
+
+%211;1:What a horrible thing. I barely knew Atkins,
+%211;1:I only met him once or twice. You probably
+%211;1:have better things to do then. I'm closing up
+
+_________________________________________________1.1.2
+
+%212;1:What a horrible thing. I barely knew Atkins,
+%212;1:I only met him once or twice. You probably
+%212;1:have better things to do then. I'm closing up
+
+_____________________________________________________________1.2
+
+%22;1:What a horrible thing. I barely knew Atkins,
+%22;1:I only met him once or twice. You probably
+%22;1:have better things to do then. I'm closing up
+
+
+
+
+
+
+
+
+
+
+IF POEM YES AND NOT TALKED BEFORE
+
+
+
+
+
+
+
+
+
+%5;1:Hi what brings you here this late officer?
+
+%5;2:I want to ask you a couple of questions.
+
+%5;3:About what?
+
+%5;4:1.Roderick Atkins is dead.
+(ONLY IF YOU FOUND THE POEM AT THE CRIME SCENE)
+%5;4:2.This poem 
+_____________________________________________________1
+
+%51;1:Oh my god! What happened?
+
+%51;2:1.He was shot.
+%51;2:2.We don't know yet.
+
+
+____________________________________________________1.1
+
+%511;1:By Who?!
+
+%511;2:1.We don't know yet.
+%511;2:2.I can't say for sure.
+
+_________________________________________________1.1.1
+
+%5111;1:What a horrible thing. I barely knew Atkins,
+%5111;1:I only met him once or twice. You probably
+%5111;1:have better things to do then. I'm closing up
+
+_________________________________________________1.1.2
+
+%5112;1:What a horrible thing. I barely knew Atkins,
+%5112;1:I only met him once or twice. You probably
+%5112;1:have better things to do then. I'm closing up
+
+_____________________________________________________________1.2
+
+%512;1:What a horrible thing. I barely knew Atkins,
+%512;1:I only met him once or twice. You probably
+%512;1:have better things to do then. I'm closing up
+
+
+(ONLY IF YOU FOUND THE POEM)
+
+_______________________________________________________________________2
+
+%52;1:Where did you find this?
+
+%52;2:1.In the town square next to the body of Roderick Atkins.
+%52;2:2.At the town square.
+
+____________________________________________________________________2.1
+
+%521;1:Roderick Atkins is dead?!
+
+%521;2:1.Yes. Why is this poem, which is clearly an Atkins
+%521;2:song signed by you?
+%521;2:2.Yes. Where were you earlier tonight?
+
+________________________________________________________________2.1.1
+
+%5211;1:I probably shouldn't tell you this, but he stole
+%5211;1:some of my poems for his songs a couple of years back.
+
+%5211;2:1.Why?
+%5211;2:2.No further questions.
+
+____________________________________________________________2.1.1.1
+
+%52111;1:I had recited them at a couple of parties and he
+%52111;1:had ran out of creativity.
+
+%52111;2:1.No further questions.
+%52111;2:2.Did you do anything to stop him?
+
+_____________________________________________________________2.1.1.1.2
+
+%521112;1:I talked to a lawyer about suing him, but the told me
+%521112;1:I couldn't afford it.
+
+%521112;2:1.Where were you earlier tonight?
+%521112;2:2.No further questions.
+
+_________________________________________________________2.1.1.1.2.1
+
+%5211121;1:Here, now could you leave?
+_________________________________________________________________2.1.2
+
+%5212;1:Here! I was writing. Are you saying that I killed
+%5212;1:him?! You can leave right now.
+
+___________________________________________________________________2.2
+
+%522;1:I wonder what it was doing there.
+
+%522;2:1.This is an Atkins song. Why is it signed by you?
+%522;2:2.So do I.
+
+__________________________________________________________________2.2.1
+
+%5221;1:I probably shouldn't tell you this, but he stole
+%5221;1:some of my poems for his songs a couple of years back.
+
+%5221;2:1.Why?
+%5221;2:2.No further questions.
+
+_________________________________________________________________2.2.1.1
+
+%52211;1:I had recited them at a couple of parties and he
+%52211;1:had ran out of creativity.
+
+%52211;2:1.No further questions.
+%52211;2:2.Did you do anything to stop him?
+
+__________________________________________________________________2.2.1.1.2
+
+%522112;1:I talked to a lawyer about suing him, but the told me
+%522112;1:I couldn't afford it.
+
+%522112;2:1.Where were you earlier tonight?
+%522112;2:2.No further questions.
+
+_________________________________________________________________2.2.1.1.2.1
+
+%5221121;1:Here. Why?
+
+%5221121;2:1.Roderick Atkins is dead.
+%5221121;2:2.Just ruling things out. 
+
+_________________________________________________________________2.2.1.1.2.1.1
+
+%52211211;1:What?! I didn't kill him if that's what you think!
+
+%52211211;2:1.Do you have an alibi?
+%52211211;2:2.No further questions.
+
+________________________________________________________________2.2.1.1.2.1.1.1
+
+%522112111;1:I was here, I told you!
+
+%522112111;2:1.Anyone that can attest to that?
+%522112111;2:2.No further questions.
+
+_______________________________________________________________2.2.1.1.2.1.1.1.1
+
+%5221121111;1:No and I don't need that. I don't want to talk anymore.
+
+____________________________________________________________________2.2.1.2
+
+%52212;1:What was all this about?
+
+%52212;2:1.Roderick Atkins is dead and I found this next to 
+%52212;2:the place where we found his body.
+%52212;2:2.Nothing just needed to rule a couple of things out.
+
+_____________________________________________________________________2.2.1.2.1
+
+%522121;1:Roderick is dead?!
+
+%522121;2:1.Yes. No further questions.
+%522121;2:2.Yes. Did you kill him?
+
+_____________________________________________________________________2.2.1.2.1.2
+
+%5221212;1.No! I hated Roderick Atkins, but I would never
+%5221212;1:kill anyone!
+__________________________________________________________________2.2.2
+
+%5222;1:I can't imagine how it got there. Now could
+%5222;1:you leave, I'm trying to work. 

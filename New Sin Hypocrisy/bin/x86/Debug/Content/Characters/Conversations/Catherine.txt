@@ -1,0 +1,116 @@
+<Scene 1>
+Bobby asks catherine a couple of questions
+
+%1;1:Hello, can't this wait till morning?
+
+%1;2:1.I'm afraid not, I'm Bobby Stewart the local 
+%1;2:police chief, I have some terrible news.
+%1;2:2.Okay I'll come back tomorrow.
+
+________________________________________________________1.
+
+%2;1:Well come in then. What happened?
+
+%2;2:1.Your husband has been killed. 
+%2;2:I'm sorry for your loss.
+%2;2:2.Roderick has been killed. Did he have
+%2;2:any enemies.
+
+______________________________________________________1.1
+
+%21;1:What, but he was here a couple of hours ago!
+
+%21;2:1.Where were you earlier tonight?
+%21;2:2.You have my condolences, we can talk tomorrow.
+%21;2:3.Did he have any enemies?
+
+___________________________________________________1.1.1
+
+%211;1:I was here waiting for Roderick to get home.
+%211;1:He was supposed to meet a friend of ours at the square.
+
+%211;2:1.Who was he meeting?
+%211;2:2.Why were they meeting that late?
+%211;2:3.Why didn't you go with him?
+
+_________________________________________________1.1.1.1
+%2111;1:A friend. I really don't feel like answering more
+%2111;1:questions now. Feel free to search the house.
+
+_________________________________________________1.1.1.2
+
+%2112;1:Our friend had been delayed. I need to call his parents.
+%2112;1:You can search the house if you want to.
+
+_________________________________________________1.1.1.2.3
+
+%2113;1:I was tired.
+
+%2113;2:1.Who was he meeting?
+%2113;2:2.Why where they meeting that late?
+%2113;2:3.I'm sorry for your loss.Can I search the house?
+
+________________________________________________1.1.1.2.3.1
+
+%21131;1:A friend called Jane, she was dropping of a package.
+%21131;1:Sorry, but I'm tired. Feel free to search the house.
+
+________________________________________________1.1.1.2.3.2
+
+%21132;1:Our friend had been delayed.
+
+%21132;2:1.Who is this friend?
+%21132;2:2.Can I search the house?
+%21132;2:3.Delayed by what?
+
+______________________________________________1.1.1.2.3.2.1
+
+%211321;1:Her name is Jane. She was dropping of a package.
+%211321;1:I'm to tired to answer more questions. 
+%211321;1:You can search the house.
+
+_______________________________________________1.1.1.2.3.2.2
+
+%211322;1:If it will help to find the murder.
+
+_______________________________________________1.1.1.2.3.2.3
+
+%211323;1:She had to avoid some people. You can search the house.
+%211323;1:But I'm not answering more questions.
+
+_____________________________________________________1.1.1.2.3.3
+
+%21133;1:Of course.
+
+_____________________________________________________________1.2
+
+%22;1:Roderick is dead?!
+
+%22;2:1.Yes. Did he have any enemies?
+%22;2:2.Yes. Where were you earlier tonight?
+
+_____________________________________________________________1.2.1
+
+%221;1:Maybe the mayor, they fought a couple of times.
+%221;1:I don't want to answer more questions now.
+
+____________________________________________________________1.2.2
+
+%222;1:Here waiting for Roderick.
+
+%222;2:1.Can I search the place?
+%222;2:2.Did he have any enemies?
+%222;2:3.What was he doing at the square?
+
+_________________________________________________________1.2.2.1
+
+%2221;1:Yeah, go ahead.
+
+________________________________________________________1.2.2.2
+
+%2222;1:He and the mayor fought a couple of times. I need to sit down.
+%2222;1:Search the house if you want to.
+
+________________________________________________________2.2.3
+
+%2223;1:Meeting our friend Jane. I need to call his parents.

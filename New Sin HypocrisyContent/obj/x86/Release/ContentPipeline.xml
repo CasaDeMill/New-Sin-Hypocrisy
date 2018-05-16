@@ -1,0 +1,1027 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>roomFont.spritefont</Source>
+      <Name>roomFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\roomFont.xnb</Output>
+      <Time>2014-12-03T13:37:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\font.xnb</Output>
+      <Time>2015-01-14T13:06:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rect.png</Source>
+      <Name>rect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\rect.xnb</Output>
+      <Time>2014-11-26T12:52:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TextBorder.png</Source>
+      <Name>TextBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\TextBorder.xnb</Output>
+      <Time>2014-12-03T13:07:13+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Dale.jpg</Source>
+      <Name>Inventory\Dale</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Inventory\Dale.xnb</Output>
+      <Time>2014-12-10T13:07:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Dorito.png</Source>
+      <Name>Inventory\Dorito</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Inventory\Dorito.xnb</Output>
+      <Time>2014-12-10T13:07:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\InventoryTEST.png</Source>
+      <Name>Inventory\InventoryTEST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Inventory\InventoryTEST.xnb</Output>
+      <Time>2014-12-10T13:07:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\InventoryTEST2.png</Source>
+      <Name>Inventory\InventoryTEST2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Inventory\InventoryTEST2.xnb</Output>
+      <Time>2014-12-10T13:07:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Rect.png</Source>
+      <Name>Inventory\Rect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Inventory\Rect.xnb</Output>
+      <Time>2014-12-10T13:07:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\ReinfeldtStor.png</Source>
+      <Name>Inventory\ReinfeldtStor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Inventory\ReinfeldtStor.xnb</Output>
+      <Time>2014-12-10T13:07:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Sonic1Stor.jpg</Source>
+      <Name>Inventory\Sonic1Stor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Inventory\Sonic1Stor.xnb</Output>
+      <Time>2014-12-10T13:07:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Sonic2Stor.jpg</Source>
+      <Name>Inventory\Sonic2Stor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Inventory\Sonic2Stor.xnb</Output>
+      <Time>2014-12-10T13:07:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Stalin.png</Source>
+      <Name>Inventory\Stalin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Inventory\Stalin.xnb</Output>
+      <Time>2014-12-10T13:07:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>playerAnimation.png</Source>
+      <Name>playerAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\playerAnimation.xnb</Output>
+      <Time>2014-12-17T14:14:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>inventorySelection.png</Source>
+      <Name>inventorySelection</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\inventorySelection.xnb</Output>
+      <Time>2015-01-07T12:55:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\thewuAni.png</Source>
+      <Name>Items\thewuAni</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Items\thewuAni.xnb</Output>
+      <Time>2015-01-28T08:42:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\BobbyOutside\1.png</Source>
+      <Name>Backgrounds\BobbyOutside\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\BobbyOutside\1.xnb</Output>
+      <Time>2015-01-28T09:06:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\BobbyOutside\2.png</Source>
+      <Name>Backgrounds\BobbyOutside\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\BobbyOutside\2.xnb</Output>
+      <Time>2015-01-28T09:06:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\phone.png</Source>
+      <Name>Items\phone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Items\phone.xnb</Output>
+      <Time>2015-01-28T09:33:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\phoneAni.png</Source>
+      <Name>Items\phoneAni</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Items\phoneAni.xnb</Output>
+      <Time>2015-01-28T09:33:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\wutang.png</Source>
+      <Name>Items\wutang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Items\wutang.xnb</Output>
+      <Time>2015-01-28T12:43:55+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Dialogue.png</Source>
+      <Name>Dialogue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Dialogue.xnb</Output>
+      <Time>2015-01-28T13:53:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\BobbyRoom\1.png</Source>
+      <Name>Backgrounds\BobbyRoom\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\BobbyRoom\1.xnb</Output>
+      <Time>2015-01-28T17:17:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\BobbyRoom\2.png</Source>
+      <Name>Backgrounds\BobbyRoom\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\BobbyRoom\2.xnb</Output>
+      <Time>2015-01-28T17:17:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Inventory.png</Source>
+      <Name>Inventory\Inventory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Inventory\Inventory.xnb</Output>
+      <Time>2015-01-28T17:21:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Inventory2.png</Source>
+      <Name>Inventory\Inventory2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Inventory\Inventory2.xnb</Output>
+      <Time>2015-01-28T17:21:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\An.png</Source>
+      <Name>Characters\An</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Characters\An.xnb</Output>
+      <Time>2015-01-28T17:54:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\phoneLow.png</Source>
+      <Name>Items\phoneLow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Items\phoneLow.xnb</Output>
+      <Time>2015-01-29T11:54:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\AnAnimation.png</Source>
+      <Name>Characters\AnAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Characters\AnAnimation.xnb</Output>
+      <Time>2015-02-04T09:30:01+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Road1\1.png</Source>
+      <Name>Backgrounds\Road1\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Road1\1.xnb</Output>
+      <Time>2015-04-06T13:24:09+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Road1\2.png</Source>
+      <Name>Backgrounds\Road1\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Road1\2.xnb</Output>
+      <Time>2015-04-06T13:24:09+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Road1\3.png</Source>
+      <Name>Backgrounds\Road1\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Road1\3.xnb</Output>
+      <Time>2015-04-06T13:24:09+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Kindergarten\1.png</Source>
+      <Name>Backgrounds\Kindergarten\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Kindergarten\1.xnb</Output>
+      <Time>2015-04-06T13:29:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Kindergarten\2.png</Source>
+      <Name>Backgrounds\Kindergarten\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Kindergarten\2.xnb</Output>
+      <Time>2015-04-06T13:29:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Kindergarten\3.png</Source>
+      <Name>Backgrounds\Kindergarten\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Kindergarten\3.xnb</Output>
+      <Time>2015-04-06T13:29:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Road2\1.png</Source>
+      <Name>Backgrounds\Road2\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Road2\1.xnb</Output>
+      <Time>2015-04-06T13:54:33+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Road2\2.png</Source>
+      <Name>Backgrounds\Road2\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Road2\2.xnb</Output>
+      <Time>2015-04-06T13:54:33+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Road3\1.png</Source>
+      <Name>Backgrounds\Road3\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Road3\1.xnb</Output>
+      <Time>2015-04-06T14:03:11+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Road3\2.png</Source>
+      <Name>Backgrounds\Road3\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Road3\2.xnb</Output>
+      <Time>2015-04-06T14:03:11+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\GasStation\1.png</Source>
+      <Name>Backgrounds\GasStation\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\GasStation\1.xnb</Output>
+      <Time>2015-04-06T14:18:47+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\GasStation\2.png</Source>
+      <Name>Backgrounds\GasStation\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\GasStation\2.xnb</Output>
+      <Time>2015-04-06T14:18:47+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MansionOutside\1.png</Source>
+      <Name>Backgrounds\MansionOutside\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\MansionOutside\1.xnb</Output>
+      <Time>2015-04-06T14:49:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MansionOutside\2.png</Source>
+      <Name>Backgrounds\MansionOutside\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\MansionOutside\2.xnb</Output>
+      <Time>2015-04-06T14:49:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MansionOutside\3.png</Source>
+      <Name>Backgrounds\MansionOutside\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\MansionOutside\3.xnb</Output>
+      <Time>2015-04-06T14:49:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MansionInside\1.png</Source>
+      <Name>Backgrounds\MansionInside\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\MansionInside\1.xnb</Output>
+      <Time>2015-04-06T15:06:09+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MansionInside\2.png</Source>
+      <Name>Backgrounds\MansionInside\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\MansionInside\2.xnb</Output>
+      <Time>2015-04-06T15:06:09+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MansionInside\3.png</Source>
+      <Name>Backgrounds\MansionInside\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\MansionInside\3.xnb</Output>
+      <Time>2015-04-06T15:06:09+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Farm\1.png</Source>
+      <Name>Backgrounds\Farm\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Farm\1.xnb</Output>
+      <Time>2015-04-06T15:35:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Farm\2.png</Source>
+      <Name>Backgrounds\Farm\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Farm\2.xnb</Output>
+      <Time>2015-04-06T15:35:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Farm\3.png</Source>
+      <Name>Backgrounds\Farm\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Farm\3.xnb</Output>
+      <Time>2015-04-06T15:35:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Hotel\1.png</Source>
+      <Name>Backgrounds\Hotel\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Hotel\1.xnb</Output>
+      <Time>2015-04-06T15:56:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Hotel\2.png</Source>
+      <Name>Backgrounds\Hotel\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Hotel\2.xnb</Output>
+      <Time>2015-04-06T15:56:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Apartment\1.png</Source>
+      <Name>Backgrounds\Apartment\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Apartment\1.xnb</Output>
+      <Time>2015-04-06T16:08:55+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Apartment\2.png</Source>
+      <Name>Backgrounds\Apartment\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Apartment\2.xnb</Output>
+      <Time>2015-04-06T16:08:55+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Apartment\3.png</Source>
+      <Name>Backgrounds\Apartment\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Apartment\3.xnb</Output>
+      <Time>2015-04-06T16:08:55+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Hotel\3.png</Source>
+      <Name>Backgrounds\Hotel\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Hotel\3.xnb</Output>
+      <Time>2015-04-06T16:32:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\TownSquare\1.png</Source>
+      <Name>Backgrounds\TownSquare\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\TownSquare\1.xnb</Output>
+      <Time>2015-04-06T16:39:39+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\TownSquare\2.png</Source>
+      <Name>Backgrounds\TownSquare\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\TownSquare\2.xnb</Output>
+      <Time>2015-04-06T16:39:39+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\TownSquare\3.png</Source>
+      <Name>Backgrounds\TownSquare\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\TownSquare\3.xnb</Output>
+      <Time>2015-04-06T16:39:39+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Store\1.png</Source>
+      <Name>Backgrounds\Store\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Store\1.xnb</Output>
+      <Time>2015-04-06T16:40:13+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Store\2.png</Source>
+      <Name>Backgrounds\Store\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Store\2.xnb</Output>
+      <Time>2015-04-06T16:40:13+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerAnimations\Animation1.png</Source>
+      <Name>PlayerAnimations\Animation1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\PlayerAnimations\Animation1.xnb</Output>
+      <Time>2015-02-25T13:08:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerAnimations\Animation2.png</Source>
+      <Name>PlayerAnimations\Animation2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\PlayerAnimations\Animation2.xnb</Output>
+      <Time>2015-02-25T13:08:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerAnimations\Animation4.png</Source>
+      <Name>PlayerAnimations\Animation4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\PlayerAnimations\Animation4.xnb</Output>
+      <Time>2015-02-25T13:08:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Store\3.png</Source>
+      <Name>Backgrounds\Store\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\Store\3.xnb</Output>
+      <Time>2015-04-08T14:34:33+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\CityHall\1.png</Source>
+      <Name>Backgrounds\CityHall\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\CityHall\1.xnb</Output>
+      <Time>2015-04-08T14:57:51+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\CityHall\2.png</Source>
+      <Name>Backgrounds\CityHall\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\CityHall\2.xnb</Output>
+      <Time>2015-04-08T14:57:51+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\CityHall\3.png</Source>
+      <Name>Backgrounds\CityHall\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Backgrounds\CityHall\3.xnb</Output>
+      <Time>2015-04-08T14:57:51+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\phoneAnimation.png</Source>
+      <Name>Characters\phoneAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Characters\phoneAnimation.xnb</Output>
+      <Time>2015-04-08T14:31:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>AugustEnd.png</Source>
+      <Name>AugustEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\AugustEnd.xnb</Output>
+      <Time>2015-04-10T00:41:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CatherineEnd.png</Source>
+      <Name>CatherineEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\CatherineEnd.xnb</Output>
+      <Time>2015-04-10T00:41:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\AugustAnimation.png</Source>
+      <Name>Characters\AugustAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Characters\AugustAnimation.xnb</Output>
+      <Time>2015-04-10T01:52:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\AtkinsAnimation.png</Source>
+      <Name>Characters\AtkinsAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Characters\AtkinsAnimation.xnb</Output>
+      <Time>2015-04-10T02:16:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Poem.png</Source>
+      <Name>Items\Poem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Items\Poem.xnb</Output>
+      <Time>2015-04-09T15:05:53+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Watch.png</Source>
+      <Name>Items\Watch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Items\Watch.xnb</Output>
+      <Time>2015-04-09T15:16:39+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Drugs.png</Source>
+      <Name>Items\Drugs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Items\Drugs.xnb</Output>
+      <Time>2015-04-09T15:19:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DonnaEnding.png</Source>
+      <Name>DonnaEnding</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\DonnaEnding.xnb</Output>
+      <Time>2015-04-10T00:41:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EasonEnding.png</Source>
+      <Name>EasonEnding</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\EasonEnding.xnb</Output>
+      <Time>2015-04-10T00:41:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>JaneEnding.png</Source>
+      <Name>JaneEnding</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\JaneEnding.xnb</Output>
+      <Time>2015-04-10T00:41:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\DonnaAnimation.png</Source>
+      <Name>Characters\DonnaAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Characters\DonnaAnimation.xnb</Output>
+      <Time>2015-04-10T02:08:15+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\MayorAnimation.png</Source>
+      <Name>Characters\MayorAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Characters\MayorAnimation.xnb</Output>
+      <Time>2015-04-10T02:08:15+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\rickyAnimation.png</Source>
+      <Name>Characters\rickyAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Characters\rickyAnimation.xnb</Output>
+      <Time>2015-04-10T02:08:15+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\ristoffAnimation.png</Source>
+      <Name>Characters\ristoffAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Characters\ristoffAnimation.xnb</Output>
+      <Time>2015-04-10T02:16:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerAnimations\Animation5.png</Source>
+      <Name>PlayerAnimations\Animation5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\PlayerAnimations\Animation5.xnb</Output>
+      <Time>2015-03-11T13:36:09+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerAnimations\Animation7.png</Source>
+      <Name>PlayerAnimations\Animation7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\PlayerAnimations\Animation7.xnb</Output>
+      <Time>2015-03-12T15:12:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerAnimations\Animation3.png</Source>
+      <Name>PlayerAnimations\Animation3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\PlayerAnimations\Animation3.xnb</Output>
+      <Time>2015-04-06T17:17:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerAnimations\Animation6.png</Source>
+      <Name>PlayerAnimations\Animation6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\PlayerAnimations\Animation6.xnb</Output>
+      <Time>2015-04-06T17:25:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerAnimations\Animation8.png</Source>
+      <Name>PlayerAnimations\Animation8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\PlayerAnimations\Animation8.xnb</Output>
+      <Time>2015-04-06T17:25:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>may.png</Source>
+      <Name>may</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\may.xnb</Output>
+      <Time>2015-01-28T13:33:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Dörr(inomhus, till pratigt område).mp3</Source>
+      <Name>Sounds\doorTalk</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\doorTalk.xnb</Output>
+      <Time>2015-03-18T13:05:20.5458464+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Dörröppning(STORT RUM).mp3</Source>
+      <Name>Sounds\doorReverb</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\doorReverb.xnb</Output>
+      <Time>2015-03-18T13:05:20.5488467+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Dörröppning.mp3</Source>
+      <Name>Sounds\door</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\door.xnb</Output>
+      <Time>2015-03-18T13:05:20.551847+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Trappsteg(trätrappa, gummisula).mp3</Source>
+      <Name>Sounds\stairstep</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\stairstep.xnb</Output>
+      <Time>2015-03-18T13:05:20.5688487+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Tung dörr(utomhus från stadsmiljö).mp3</Source>
+      <Name>Sounds\doorOutside</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\doorOutside.xnb</Output>
+      <Time>2015-03-18T13:05:20.5708489+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Boulder Storm.mp3</Source>
+      <Name>Songs\storm</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Songs\storm.xnb</Output>
+      <Time>2015-03-18T13:05:31+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Clouded Peaks.mp3</Source>
+      <Name>Songs\peaks</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Songs\peaks.xnb</Output>
+      <Time>2015-03-18T13:05:31+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Diner Dance.mp3</Source>
+      <Name>Songs\diner</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Songs\diner.xnb</Output>
+      <Time>2015-03-18T13:05:31+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Ether.mp3</Source>
+      <Name>Sounds\ether</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\ether.xnb</Output>
+      <Time>2015-03-18T13:05:31+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Screams of the subconcious.mp3</Source>
+      <Name>Sounds\weird</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\weird.xnb</Output>
+      <Time>2015-03-18T13:05:31+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Fotsteg(stengolv, gummisula).mp3</Source>
+      <Name>Sounds\footstep</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\footstep.xnb</Output>
+      <Time>2015-03-18T14:46:25.2846912+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Fotsteg(klistrigt gummigolv, gummisula).mp3</Source>
+      <Name>Sounds\footstepSticky</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\footstepSticky.xnb</Output>
+      <Time>2015-03-18T14:56:35.3514865+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Fotsteg(stengolv, gummisula, STORT RUM).mp3</Source>
+      <Name>Sounds\footstepReverb</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\footstepReverb.xnb</Output>
+      <Time>2015-03-18T14:56:35.3534867+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PickUp.mp3</Source>
+      <Name>Sounds\pickUp</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\pickUp.xnb</Output>
+      <Time>2015-03-19T13:44:57.3401948+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Vind.mp3</Source>
+      <Name>Sounds\wind</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\wind.xnb</Output>
+      <Time>2015-03-19T14:26:29.5476013+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Pennljud.mp3</Source>
+      <Name>Sounds\pen</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\pen.xnb</Output>
+      <Time>2015-03-19T14:44:13.7200173+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\pistol.mp3</Source>
+      <Name>Sounds\pistol</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\pistol.xnb</Output>
+      <Time>2015-04-08T22:11:47.6970429+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\There's been a murder.mp3</Source>
+      <Name>Songs\murder</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Songs\murder.xnb</Output>
+      <Time>2015-04-08T22:53:19+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Phone.mp3</Source>
+      <Name>Sounds\phone</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\Sounds\phone.xnb</Output>
+      <Time>2015-04-09T20:09:54.5156222+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\GameOver.xnb</Output>
+      <Time>2015-04-10T12:34:14+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin HypocrisyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin HypocrisyContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-02T13:21:24.0067049+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

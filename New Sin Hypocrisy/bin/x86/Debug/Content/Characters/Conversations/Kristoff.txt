@@ -1,0 +1,82 @@
+<Scene 1>
+Bobby asks kristoff a couple of questions
+
+%1;1:Bobby, what are you doing here?
+
+%1;2:1.Where were you earlier Kristoff?
+%1;2:2.Seen anything suspicious tonight?
+
+_________________________________________________________1
+
+%2;1:I was arguing with a dissatisfied guest.
+
+%2;2:1.Who was this guest?
+%2;2:2.What were you arguing about?
+
+_________________________________________________________1.1
+
+%21;1:A woman named Jane. She was gone after I was
+%21;1:woken up by the shot.
+
+%21;2:1.Thanks for the info.
+%21;2:2.What were you arguing about?
+
+________________________________________________________1.1.2
+
+%212;1:She was not satisfied with her room.
+
+%212;1:Thanks for the info
+
+___________________________________________________________1.2
+
+%22;1:She was not satisfied with her room.
+
+%22;2:Thanks for the info
+
+_______________________________________________________________________2
+
+%3;1:No. I was woken up by the shot earlier.
+
+%3;2:1.Was there anyone here that disappeared after the shot?
+%3;2:2.Where were you earlier?
+
+_________________________________________________________2.2
+
+%32;1:I was arguing with a dissatisfied guest.
+
+%32;2:1.Who was this guest?
+%32;2:2.What were you arguing about?
+
+_________________________________________________________2.2.1
+
+%321;1:A woman named Jane. She was gone after I was
+%321;1:woken up by the shot.
+
+%321;2:1.Thanks for the info.
+%321;2:2.What were you arguing about?
+
+________________________________________________________2.2.1.2
+
+___________________________________________________________________2.1
+%31;1:Yes. A woman named Jane.
+
+%31;2:Thanks for the info.
+
+%3212;1:She was not satisfied with her room.
+
+%3212;2:Thanks for the info
+
+_________________________________________________________2.2.2
+
+%322;1:She was not satisfied with her room.
+
+%322;2:1.Who was this guest?
+%322;2:2.Thanks for the info
+
+_________________________________________________________2.2.2.1
+
+
+%3221;1:A woman named Jane. She was gone after I was
+%3221;1:woken up by the shot.
+
+%3221;2:Thanks for the info.

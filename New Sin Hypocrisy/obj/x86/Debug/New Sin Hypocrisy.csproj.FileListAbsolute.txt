@@ -1,0 +1,499 @@
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\New Sin Hypocrisy.exe
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\New Sin Hypocrisy.pdb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.csprojResolveAssemblyReference.cache
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.exe
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.pdb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\playerAnimation.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\font.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\rect.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\BobbyRoom\1.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\BobbyRoom\2.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\BobbyOutside\1.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\BobbyOutside\2.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\TextBorder.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Dale.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Dorito.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\InventoryTEST.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\InventoryTEST2.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Rect.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\ReinfeldtStor.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Sonic1Stor.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Sonic2Stor.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Stalin.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\inventorySelection.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation1.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation2.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation3.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation4.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\roomFont.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation5.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation6.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\thewuAni.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phone.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phoneAni.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\wutang.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\may.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Dialogue.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Inventory.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Inventory2.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\1.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\2.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\3.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\An.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phoneLow.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\An.txt
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Phone.txt
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\AnAnimation.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\phoneAnimation.xnb
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveRoom.txt
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveItems.txt
+C:\Users\sul12bfelix\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SavePosition.txt
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\roomFont.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\font.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\rect.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\TextBorder.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Dale.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Dorito.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\InventoryTEST.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\InventoryTEST2.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Rect.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\ReinfeldtStor.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Sonic1Stor.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Sonic2Stor.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Stalin.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\playerAnimation.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\inventorySelection.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation1.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation2.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation4.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation3.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\thewuAni.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\BobbyOutside\1.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\BobbyOutside\2.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phone.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phoneAni.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation5.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation6.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\wutang.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Dialogue.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\BobbyRoom\1.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\BobbyRoom\2.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Inventory.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Inventory2.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\1.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\2.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\3.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\An.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phoneLow.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\AnAnimation.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\phoneAnimation.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\may.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\An.txt
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Phone.txt
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveItems.txt
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SavePosition.txt
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveRoom.txt
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\New Sin Hypocrisy.exe
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\New Sin Hypocrisy.pdb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.csprojResolveAssemblyReference.cache
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.exe
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.pdb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\3Alt.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Options.txt
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Menu.txt
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Donna.txt
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation7.xnb
+C:\Users\felix.bjork\Documents\Skola\Programmering\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation8.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\roomFont.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\font.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\rect.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\TextBorder.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Dale.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Dorito.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\InventoryTEST.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\InventoryTEST2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Rect.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\ReinfeldtStor.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Sonic1Stor.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Sonic2Stor.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Stalin.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\playerAnimation.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\inventorySelection.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\thewuAni.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phone.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phoneAni.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\wutang.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Dialogue.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Inventory.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Inventory2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\An.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phoneLow.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\AnAnimation.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\phoneAnimation.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation4.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation5.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation6.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation7.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation8.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\may.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\doorTalk.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\doorReverb.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\door.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\footstepSticky.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\footstep.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\footstepReverb.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\stairstep.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\doorOutside.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\murder.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\storm.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\peaks.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\diner.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\ether.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\weird.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Donna.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\An.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Phone.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Menu.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Options.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveItems.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SavePosition.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveRoom.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\New Sin Hypocrisy.exe
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\New Sin Hypocrisy.pdb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.csprojResolveAssemblyReference.cache
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.exe
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.pdb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\pickUp.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\pen.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\wind.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveConversation.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\roomFont.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\font.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\rect.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\TextBorder.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Dale.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Dorito.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\InventoryTEST.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\InventoryTEST2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Rect.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\ReinfeldtStor.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Sonic1Stor.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Sonic2Stor.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Stalin.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\playerAnimation.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\inventorySelection.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\thewuAni.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phone.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phoneAni.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\wutang.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Dialogue.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Inventory.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Inventory2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\3.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\An.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phoneLow.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\AnAnimation.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\phoneAnimation.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation4.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation5.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation6.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation3.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation7.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation8.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\may.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\doorTalk.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\doorReverb.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\door.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\stairstep.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\doorOutside.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\murder.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\storm.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\peaks.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\diner.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\ether.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\weird.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\footstep.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\footstepSticky.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\footstepReverb.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\pickUp.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\wind.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\pen.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\murder.wma
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\storm.wma
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\peaks.wma
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\diner.wma
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\An.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Donna.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Phone.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Menu.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Options.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveConversation.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveItems.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SavePosition.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveRoom.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\New Sin Hypocrisy.exe
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\New Sin Hypocrisy.pdb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.csprojResolveAssemblyReference.cache
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.exe
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.pdb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyOutside\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyOutside\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyRoom\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyRoom\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Kindergarten\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Kindergarten\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Kindergarten\3.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road1\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road1\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road1\3.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road2\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road2\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road3\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road3\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\GasStation\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\GasStation\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionOutside\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionOutside\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionOutside\3.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionInside\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionInside\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionInside\3.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Farm\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Farm\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Farm\3.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Hotel\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Hotel\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Hotel\3.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Apartment\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Apartment\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Apartment\3.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Store\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Store\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Store\3.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\August.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\August.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Atkins.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Donna.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\mayor.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\ricky.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\ristoff.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Catherine.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Eason.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Ricky.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Kristoff.txt
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\CityHall\1.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\CityHall\2.xnb
+C:\Users\felix.bjork\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\CityHall\3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyOutside\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyOutside\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyRoom\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyRoom\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road1\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road1\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road1\3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Kindergarten\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Kindergarten\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Kindergarten\3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road2\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road2\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road3\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road3\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\GasStation\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\GasStation\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionOutside\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionOutside\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionOutside\3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionInside\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionInside\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionInside\3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Farm\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Farm\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Farm\3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Hotel\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Hotel\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Apartment\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Apartment\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Apartment\3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Hotel\3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Store\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Store\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Store\3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\CityHall\1.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\CityHall\2.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\CityHall\3.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\August.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Catherine.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Eason.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Ricky.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Kristoff.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\pistol.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\EasonPhone.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\Poem.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\Watch.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\Drugs.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\phone.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\AnPhone.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveCall.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\AugustEnd.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\CatherineEnd.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\DonnaEnding.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\EasonEnding.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\JaneEnding.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\AugustAnimation.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\AtkinsAnimation.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\DonnaAnimation.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\MayorAnimation.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\rickyAnimation.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\ristoffAnimation.xnb
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\End.txt
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Game.ico
+C:\Users\martin.lindgren\Dropbox\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\roomFont.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\font.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\rect.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\TextBorder.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Dale.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Dorito.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\InventoryTEST.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\InventoryTEST2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Rect.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\ReinfeldtStor.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Sonic1Stor.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Sonic2Stor.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Stalin.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\playerAnimation.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\inventorySelection.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\thewuAni.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyOutside\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyOutside\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phone.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phoneAni.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\wutang.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Dialogue.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyRoom\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\BobbyRoom\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Inventory.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Inventory\Inventory2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\An.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\phoneLow.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\AnAnimation.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road1\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road1\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road1\3.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Kindergarten\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Kindergarten\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Kindergarten\3.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road2\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road2\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road3\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Road3\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\GasStation\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\GasStation\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionOutside\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionOutside\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionOutside\3.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionInside\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionInside\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\MansionInside\3.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Farm\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Farm\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Farm\3.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Hotel\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Hotel\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Apartment\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Apartment\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Apartment\3.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Hotel\3.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\TownSquare\3.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Store\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Store\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation4.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\Store\3.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\CityHall\1.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\CityHall\2.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Backgrounds\CityHall\3.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\phoneAnimation.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\AugustEnd.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\CatherineEnd.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\AugustAnimation.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\AtkinsAnimation.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\Poem.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\Watch.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Items\Drugs.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\DonnaEnding.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\EasonEnding.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\JaneEnding.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\DonnaAnimation.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\MayorAnimation.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\rickyAnimation.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\ristoffAnimation.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation5.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation7.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation3.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation6.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\PlayerAnimations\Animation8.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\may.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\doorTalk.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\doorReverb.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\door.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\stairstep.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\doorOutside.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\storm.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\peaks.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\diner.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\ether.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\weird.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\footstep.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\footstepSticky.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\footstepReverb.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\pickUp.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\wind.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\pen.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\pistol.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Songs\murder.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Sounds\phone.xnb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\An.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\AnPhone.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\August.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Catherine.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Donna.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Eason.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\EasonPhone.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\End.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Kristoff.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Phone.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Characters\Conversations\Ricky.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Game.ico
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Menu.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\Options.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveCall.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveConversation.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveItems.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SavePosition.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\Content\SaveRoom.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\New Sin Hypocrisy.exe
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\bin\x86\Debug\New Sin Hypocrisy.pdb
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.csprojResolveAssemblyReference.cache
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.csproj.CoreCompileInputs.cache
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.exe
+C:\Users\artin\CasaDeMill Dropbox\Martin Lindgren\New sin - hipocrasy\New Sin Hypocrisy\New Sin Hypocrisy\New Sin Hypocrisy\obj\x86\Debug\New Sin Hypocrisy.pdb

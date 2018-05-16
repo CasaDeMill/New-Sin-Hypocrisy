@@ -1,0 +1,9 @@
+<Scene 1>
+Bobby asks ricky a couple of questions.
+
+%1;1:Hello Mr. Richards, I have a couple of-
+
+%1;1:Hey listen kid. I did not kill anyone tonight and
+%1;1:I need to harvest tomorrow so I'm just going to
+%1;1:leave right now. And if you have any questions
+%1;1:ask them tomorrow. 

@@ -1,0 +1,37 @@
+EASON CALLS OOOOOOOOOOOOOOOOOOOOH
+
+%1;1:Hello Mayor Eason.
+
+%1;2:Bobby you need to get to city hall, we're holding
+%1;2:a community meeting about the murder.
+
+%1;3:1.How does everyone know about the murder?
+%1;3:2.You shouldn't have planned this without me.
+%1;3:3.I don't have time for your PR bullshit, I'm
+%1;3:trying to solve a murder.
+
+__________________________________________________________1
+
+%2;1:The meeting is starting in five minutes, get here!
+
+__________________________________________________________2
+
+%3;1:Well I did, so get here!
+
+__________________________________________________________3
+
+%4;1:You do have time, because I say so.
+
+%4;2:1.I only have till seven am. Then that ranger is
+%4;2:coming to take over the investigation.
+%4;2:2.Have you ever tried solving a murder? It's hard.
+%4;2:3.Okay I'm coming.
+
+____________________________________________________________3.1
+
+%41;1:I know, but you need to address the rest of the community.
+%41;1:Get here now!
+
+__________________________________________________________3.2
+
+%42;1:Well it's your fucking job!

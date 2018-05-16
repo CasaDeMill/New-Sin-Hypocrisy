@@ -1,0 +1,245 @@
+<SCENE 1>
+______________________________________________________________________________________________
+// Bobby arrives at the crime scene in the middle
+ of the night. An is wating there Characters in 
+scene: Bobby Stewart, An//
+
+Bobby:
+
+%1;1:Hi
+
+An:
+
+%1;2:Took your sweet time huh.
+
+Bobby (Choices):
+
+1.
+%1;3:1.I'm your boss. I'm allowed to be late.
+
+2.
+%1;3:2.What has happened?
+
+3.
+%1;3:3.How long have you been waiting?
+_____________________________________________________________1
+An:
+
+%2;1:Sure, whatever... 
+%2;1:Well the the victim is Sir Roderick Atkins, 
+%2;1:45 year old male, killed by a bullet in the 
+%2;1:head and one in the chest. Looks like it was
+%2;1:done by a professional.
+
+Bobby (CHOICES):
+
+1.
+%2;2:1.Any witnesses?
+
+2.
+%2;2:2.Where is the body?
+
+3.
+%2;2:3.Any clues?
+____________________________________________________1.1
+An:
+%21;1:No, not yet. I knocked on the doors here,
+%21;1:but there deosn't seem to be anyone home.
+
+Bobby(CHOICES):
+
+1.
+%21;2:1.Where is the body?
+
+2.
+%21;2:2.Any clues?
+
+3.
+%21;2:3.Any suggestions?
+__________________________________________1.1.1
+An:
+%211;1:At the station, the forensics are coming tomorrow.
+
+Bobby(CHOICES):
+
+1.
+%211;2:1.Any clues?
+
+2.
+%211;2:2.Any suggestions?
+
+_____________________________________1.1.1.1
+An:
+%2111;1:No I have been waiting for you. Look around for some.
+
+Bobby:
+%2111;2:Any suggestions?
+
+An:
+%2111;3:Talk to his wife, she lives in the mansion.
+%2111;3:Look for clues. 
+
+____________________________________1.1.1.2
+An:
+%2112;1:Talk to his wife, she lives in the mansion.
+%2112;1:Look for clues. 
+
+__________________________________________1.1.2
+An:
+%212;1:No I have been waiting for you. Look around for some.
+
+Bobby(CHOICES):
+
+1.
+%212;2:1.Where is the body?
+
+2.
+%212;2:2.Any suggestions?
+
+___________________________________1.1.2.1
+An:
+%2121;1:At the station, the forensics are coming tomorrow.
+
+
+Bobby:
+%2121;2:Any suggestions?
+
+An:
+%2121;3:Talk to his wife, she lives in the mansion.
+%2121;3:Look for clues. 
+
+__________________________________1.1.2.2
+An:
+%2122;1:Talk to his wife, she lives in the mansion.
+%2122;1:Look for clues. 
+
+__________________________________________1.1.3
+An:
+%213;1:Talk to his wife, she lives in the mansion.
+%213;1:Look for clues. 
+
+____________________________________________________1.2
+An:
+%22;1:At the station, the forensics are coming tomorrow.
+
+Bobby:
+%22;2:Any suggestions?
+
+An:
+%22;3:Talk to his wife, she lives in the mansion.
+%22;3:Look for clues.
+
+____________________________________________________1.3
+An:
+%23;1:No I have been waiting for you. Look around for some.
+
+Bobby:
+%23;2:Any suggestions?
+
+An:
+%23;3:Talk to his wife, she lives in the mansion.
+%23;3:Look for clues.
+
+
+_____________________________________________________________2
+An:
+
+%3;1:A murder, I wrote it in the text. 45 year 
+%3;1:old male, Roderick Atkins. Killed by two bullets, 
+%3;1:one in the head and one in the chest. Looks like 
+%3;1:the killer is a professional.
+
+Bobby: 
+
+%3;2:Any witnesses?
+
+An:
+
+%3;3:No, not yet. I knocked on the doors here, but
+%3;3:there doesn't seem to be anybody home.
+
+Bobby:
+
+%3;4:Where is the body?
+
+An:
+
+%3;5:At the station, the forensics are coming tomorrow.
+
+Bobby:
+
+%3;6:Any clues?
+
+An:
+
+%3;7:No I have been waiting for you. Look around for some.
+
+Bobby:
+
+%3;8:Any suggestions?
+
+An:
+
+%3;9:Talk to his wife, she lives in the mansion.
+%3;9:Look for clues. 
+
+________________________________________________________________3
+
+An:
+
+%4;1:An hour, where have you been? Well the victim is
+%4;1:a 45 year old male, Sir Roderick Atkins. 
+%4;1:Killed by two bullets, one in the head and one in
+%4;1:the chest. Looks like the murderer is a professional.
+
+Bobby:
+
+%4;2:Any witnesses?
+
+An:
+
+%4;3:No, not yet. I knocked on the doors here, but
+%4;3:there doesn't seem to be anybody home.
+
+Bobby:
+
+%4;4:Where is the body?
+
+An:
+
+%4;5:At the station, the forensics are coming tomorrow.
+
+Bobby:
+
+%4;6:Any clues?
+
+An:
+
+%4;7:No I have been waiting for you. Look around for some.
+
+Bobby:
+
+%4;8:Any suggestions?
+
+An:
+
+%4;9:Talk to his wife, she lives in the mansion.
+%4;9:Look for clues. 
+______________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

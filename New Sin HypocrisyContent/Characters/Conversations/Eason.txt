@@ -1,0 +1,11 @@
+<SCENE 1>
+%1;1:Bobby please come back in just a second.
+%1;1:We'll start the meeting soon.
+%1;1:Don't lose track of time. It can cost you.
+
+%1;2:1.I'll try.
+%1;2:2.Don't wait for me. I need to talk to my colleague.
+
+%2;1:Goodbye Bobby.
+
+%3;1:Make it quick.
